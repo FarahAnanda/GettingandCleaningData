@@ -1,6 +1,6 @@
 ---
 title: "Getting and Cleaning Data Course Project"
-author: "Author : Farah Ananda"
+author: "Farah Ananda"
 output: html_document
 ---
 
